@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "kind": "rss",
+      "rid": "0d204b8bae012426802cc9d9c76053d7cf08a491df21f913512f21dc46acad8d",
+      "time": "2026-01-14T19:54:02+03:00",
+      "url": "https://www.investing.com/rss/news_25.rss"
+    },
+    {
+      "kind": "rss",
+      "rid": "4ea15633cef0c35cb0baabd7fa9fe8e1dbf3f0adff355abf58866ef12f6170c5",
+      "time": "2026-01-14T20:02:35+03:00",
+      "url": "https://www.investing.com/rss/news_25.rss"
+    }
+  ]
+}

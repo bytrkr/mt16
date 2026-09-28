@@ -1,0 +1,78 @@
+{
+  "kind": "rss",
+  "payload": {
+    "feed_url": "https://www.investing.com/rss/news_25.rss",
+    "items": [
+      {
+        "link": "https://www.investing.com/news/stock-market-news/memory-upcycle-has-just-begun-analyst-says-4447840",
+        "published": "2026-01-14 16:46:33",
+        "summary": null,
+        "title": "Memory up-cycle has just begun, analyst says"
+      },
+      {
+        "link": "https://www.investing.com/news/stock-market-news/wells-fargo-profit-climbs-on-interest-income-boost-4446726",
+        "published": "2026-01-14 16:43:05",
+        "summary": null,
+        "title": "Wells Fargo misses profit estimates on severance costs, shares fall"
+      },
+      {
+        "link": "https://www.investing.com/news/stock-market-news/bernstein-bullish-on-kla-as-process-control-growth-to-take-stock-to-1700-4447826",
+        "published": "2026-01-14 16:38:51",
+        "summary": null,
+        "title": "Bernstein bullish on KLA as process control growth to take stock to $1700"
+      },
+      {
+        "link": "https://www.investing.com/news/stock-market-news/us-european-regulators-set-principles-for-good-ai-practice-in-drug-development-4447825",
+        "published": "2026-01-14 16:36:30",
+        "summary": null,
+        "title": "US, European regulators set principles for ’good AI practice’ in drug development"
+      },
+      {
+        "link": "https://www.investing.com/news/stock-market-news/poland-stocks-lower-at-close-of-trade-wig30-down-039-4447824",
+        "published": "2026-01-14 16:35:03",
+        "summary": null,
+        "title": "Poland stocks lower at close of trade; WIG30 down 0.39%"
+      },
+      {
+        "link": "https://www.investing.com/news/stock-market-news/brazilian-fintech-agibank-files-for-us-ipo-seeks-to-raise-1b-4447810",
+        "published": "2026-01-14 16:31:05",
+        "summary": null,
+        "title": "Brazilian fintech Agibank files for US IPO, seeks to raise $1B"
+      },
+      {
+        "link": "https://www.investing.com/news/stock-market-news/denmark-stocks-higher-at-close-of-trade-omx-copenhagen-20-up-045-4447809",
+        "published": "2026-01-14 16:30:04",
+        "summary": null,
+        "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 0.45%"
+      },
+      {
+        "link": "https://www.investing.com/news/stock-market-news/brazilian-fintech-agibank-files-for-us-ipo-4447804",
+        "published": "2026-01-14 16:24:11",
+        "summary": null,
+        "title": "Brazilian fintech Agibank files for US IPO"
+      },
+      {
+        "link": "https://www.investing.com/news/stock-market-news/tesla-reportedly-struggling-to-offload-inventory-in-india-amid-cancellations-4447802",
+        "published": "2026-01-14 16:19:31",
+        "summary": null,
+        "title": "Tesla reportedly struggling to offload inventory in India amid cancellations"
+      },
+      {
+        "link": "https://www.investing.com/news/stock-market-news/exclusivebeijing-tells-chinese-firms-to-stop-using-us-israeli-cybersecurity-software-sources-say-4446394",
+        "published": "2026-01-14 16:18:27",
+        "summary": null,
+        "title": "Exclusive-Beijing tells Chinese firms to stop using US and Israeli cybersecurity software, sources say"
+      }
+    ],
+    "meta": {
+      "blocked": false,
+      "bytes": 3997,
+      "content_type": "application/rss+xml",
+      "status": 200
+    },
+    "source": "rss"
+  },
+  "rid": "4ea15633cef0c35cb0baabd7fa9fe8e1dbf3f0adff355abf58866ef12f6170c5",
+  "time": "2026-01-14T20:02:35+03:00",
+  "uid": "local"
+}

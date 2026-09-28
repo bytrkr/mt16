@@ -1,0 +1,30 @@
+verified_sources:
+  # Global News
+  reuters.com: { trust: 0.95, category: news }
+  apnews.com: { trust: 0.93, category: news }
+  bbc.com: { trust: 0.92, category: news }
+  ft.com: { trust: 0.94, category: finance_news }
+
+  # Global Institutions / Regulators
+  who.int: { trust: 0.97, category: institution }
+  imf.org: { trust: 0.96, category: institution }
+  worldbank.org: { trust: 0.96, category: institution }
+  ecb.europa.eu: { trust: 0.97, category: regulator }
+  federalreserve.gov: { trust: 0.97, category: regulator }
+  sec.gov: { trust: 0.97, category: regulator }
+  esma.europa.eu: { trust: 0.96, category: regulator }
+  eba.europa.eu: { trust: 0.96, category: regulator }
+  bankofengland.co.uk: { trust: 0.96, category: regulator }
+
+  # Turkey – Official / Regulators
+  resmigazete.gov.tr: { trust: 0.99, category: official }
+  tcbm.gov.tr: { trust: 0.98, category: regulator }
+  tuik.gov.tr: { trust: 0.97, category: institution }
+  bddk.org.tr: { trust: 0.97, category: regulator }
+  spk.gov.tr: { trust: 0.97, category: regulator }
+  bist.gov.tr: { trust: 0.96, category: exchange }
+
+  # Turkey – Media
+  aa.com.tr: { trust: 0.90, category: news }
+  trtworld.com: { trust: 0.88, category: news }
+  trthaber.com: { trust: 0.88, category: news }

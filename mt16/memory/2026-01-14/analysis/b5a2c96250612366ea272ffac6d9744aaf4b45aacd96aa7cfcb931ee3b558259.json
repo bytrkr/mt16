@@ -1,0 +1,19 @@
+{
+  "id": "b5a2c96250612366ea272ffac6d9744aaf4b45aacd96aa7cfcb931ee3b558259",
+  "ts_utc": "2026-01-14T15:17:34.099091+00:00",
+  "source_url": "https://example.com",
+  "source_domain": "example.com",
+  "authority_score": 0.55,
+  "logic_score": 0.4,
+  "verdict": "SUPHELI_IDDIA",
+  "reasons": [
+    "Orta makam kaynağı (genel web)",
+    "Kısa içerik (zayıf sened)",
+    "Sayısal/tarihsel işaret var (izlenebilirlik artar)"
+  ],
+  "signals": {
+    "len": 67,
+    "uniq_tokens": 13,
+    "rep_ratio": 0.0
+  }
+}
