@@ -1,0 +1,26 @@
+{
+  "topic": "stres baş ağrısı yapar mı",
+  "generated_at": "2026-01-07T00:08:17.206037+00:00",
+  "result": {
+    "source": "legacy_migrated",
+    "risk": {
+      "score": "LOW",
+      "publishable": true,
+      "reasons": []
+    },
+    "platforms": {
+      "instagram": {
+        "text": "{\"title\": \"stres baş ağrısı yapar mı\", \"slides\": []}",
+        "hashtags": ""
+      },
+      "x": {
+        "text": "{\"title\": \"stres baş ağrısı yapar mı\", \"slides\": []}",
+        "hashtags": ""
+      },
+      "linkedin": {
+        "text": "{\"title\": \"stres baş ağrısı yapar mı\", \"slides\": []}",
+        "hashtags": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+# MT16 Policy Configuration (YAML)
+# role presets: enduser / analyst / admin
+
+version: 1
+defaults:
+  block_on_high: true
+  allow_on_medium: true
+
+roles:
+  enduser:
+    block_on_high: true
+    block_on_medium: false
+    force_enabled: true
+  analyst:
+    block_on_high: true
+    block_on_medium: false
+    force_enabled: true
+  admin:
+    block_on_high: false
+    block_on_medium: false
+    force_enabled: true
+
+keywords:
+  high_risk:
+    - "kredi dolandır"
+    - "kart dolandır"
+    - "phishing"
+    - "kimlik avı"
+    - "sahtecilik"
+    - "hack"
+    - "sızma"
+    - "bypass"
+  medium_risk:
+    - "kredi"
+    - "borç"
+    - "risk"
+    - "volatilite"
+    - "likidite"
+
+domains:
+  FINANCE:
+    base: MEDIUM
+  RISK:
+    base: MEDIUM
+
+rules:
+  - id: HIGH_RISK_KEYWORDS
+    when:
+      keyword_group: high_risk
+    decision: BLOCK
+    risk: HIGH
+    message: "Yüksek riskli ifade tespit edildi (dolandırıcılık / suistimal vb.)."
+
+  - id: MEDIUM_RISK_KEYWORDS
+    when:
+      keyword_group: medium_risk
+    decision: ALLOW
+    risk: MEDIUM
+    message: "Orta riskli finans/risk içeriği. Genel çerçevede yanıtlanabilir."
+
+  - id: DEFAULT_ALLOW
+    when: {}
+    decision: ALLOW
+    risk: LOW
+    message: "Varsayılan izin."

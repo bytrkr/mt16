@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-01-09T17:31:36.283380Z",
+  "topic": "bitcoin volatilitesi",
+  "persona": "influencer",
+  "risk": {
+    "level": "HIGH",
+    "publishable": false
+  },
+  "content": {
+    "text": "Herkesin merak ettiği konu: bitcoin volatilitesi genelde tek bir nedene bağlı değildir. Birden fazla faktör birlikte etkilidir.",
+    "cards": [
+      {
+        "id": 1,
+        "title": "Kart 1",
+        "text": "Herkesin merak ettiği konu: bitcoin volatilitesi genelde tek bir nedene bağlı değildir"
+      },
+      {
+        "id": 2,
+        "title": "Kart 2",
+        "text": "Birden fazla faktör birlikte etkilidir"
+      }
+    ],
+    "canva": {
+      "slides": [
+        {
+          "headline": "Kart 1",
+          "body": "Herkesin merak ettiği konu: bitcoin volatilitesi genelde tek bir nedene bağlı değildir"
+        },
+        {
+          "headline": "Kart 2",
+          "body": "Birden fazla faktör birlikte etkilidir"
+        }
+      ]
+    }
+  }
+}

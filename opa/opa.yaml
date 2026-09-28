@@ -1,0 +1,11 @@
+services:
+  - name: mt16
+    url: file:///opa
+
+bundles:
+  mt16:
+    service: mt16
+    resource: .
+
+decision_logs:
+  console: true

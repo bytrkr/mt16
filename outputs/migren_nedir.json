@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-01-10T15:03:06.225146Z",
+  "topic": "migren nedir",
+  "persona": "neutral",
+  "risk": {
+    "level": "LOW",
+    "publishable": true
+  },
+  "content": {
+    "text": "migren nedir genelde tek bir nedene bağlı değildir. Birden fazla faktör birlikte etkilidir.",
+    "cards": [
+      {
+        "id": 1,
+        "title": "Kart 1",
+        "text": "migren nedir genelde tek bir nedene bağlı değildir"
+      },
+      {
+        "id": 2,
+        "title": "Kart 2",
+        "text": "Birden fazla faktör birlikte etkilidir"
+      }
+    ],
+    "canva": {
+      "slides": [
+        {
+          "headline": "Kart 1",
+          "body": "migren nedir genelde tek bir nedene bağlı değildir"
+        },
+        {
+          "headline": "Kart 2",
+          "body": "Birden fazla faktör birlikte etkilidir"
+        }
+      ]
+    }
+  }
+}

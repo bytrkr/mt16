@@ -1,0 +1,28 @@
+{
+  "topic": "bitcoin_volatilitesi.canva_canva",
+  "generated_at": "2026-01-07T00:08:17.092470+00:00",
+  "result": {
+    "source": "legacy_migrated",
+    "risk": {
+      "score": "MED",
+      "publishable": true,
+      "reasons": [
+        "keyword:bitcoin"
+      ]
+    },
+    "platforms": {
+      "instagram": {
+        "text": "{\"meta\": {\"topic\": \"bitcoin volatilitesi\"}, \"pages\": []}",
+        "hashtags": ""
+      },
+      "x": {
+        "text": "{\"meta\": {\"topic\": \"bitcoin volatilitesi\"}, \"pages\": []}",
+        "hashtags": ""
+      },
+      "linkedin": {
+        "text": "{\"meta\": {\"topic\": \"bitcoin volatilitesi\"}, \"pages\": []}",
+        "hashtags": ""
+      }
+    }
+  }
+}

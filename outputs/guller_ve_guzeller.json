@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-01-09T17:32:05.889930Z",
+  "topic": "güller ve güzeller",
+  "persona": "influencer",
+  "risk": {
+    "level": "LOW",
+    "publishable": true
+  },
+  "content": {
+    "text": "Herkesin merak ettiği konu: güller ve güzeller genelde tek bir nedene bağlı değildir. Birden fazla faktör birlikte etkilidir.",
+    "cards": [
+      {
+        "id": 1,
+        "title": "Kart 1",
+        "text": "Herkesin merak ettiği konu: güller ve güzeller genelde tek bir nedene bağlı değildir"
+      },
+      {
+        "id": 2,
+        "title": "Kart 2",
+        "text": "Birden fazla faktör birlikte etkilidir"
+      }
+    ],
+    "canva": {
+      "slides": [
+        {
+          "headline": "Kart 1",
+          "body": "Herkesin merak ettiği konu: güller ve güzeller genelde tek bir nedene bağlı değildir"
+        },
+        {
+          "headline": "Kart 2",
+          "body": "Birden fazla faktör birlikte etkilidir"
+        }
+      ]
+    }
+  }
+}
